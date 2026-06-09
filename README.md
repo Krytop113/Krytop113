@@ -1,23 +1,31 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,100:00E5FF&text=KRYTOP113&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:00E5FF&text=KRYTOP113&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Ethical+Hacking+Learner;Linux+User;Security+Research+Enjoyer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Artificial+Intelligence+Learner;Informatics+Engineering+Student;Linux+User;Always+Learning+New+Things"/>
 
 </div>
 
 ---
 
-# 👋 Hello World
+## 👨‍💻 Who Am I?
 
 ```bash
 ┌──(krytop㉿github)-[~]
-└─$ whoami
+└─$ cat profile.txt
 
-Cybersecurity Enthusiast
-Learning Ethical Hacking
-Exploring Linux & Networks
-Building Small Projects
+Name       : Javier Leander Wijaya
+Role       : Informatics Engineering Student
+University : Maranatha Christian University
+Location   : Bandung, West Java, Indonesia
+
+Interests:
+├── Artificial Intelligence
+├── Cybersecurity
+├── Ethical Hacking
+├── Web Development
+├── Linux & Networking
+└── Open Source Projects
 ```
 
 ---
@@ -25,36 +33,34 @@ Building Small Projects
 ## 🛡️ About Me
 
 ```yaml
-Name: Krytop
-Location: Indonesia 🇮🇩
+alias: Krytop113
 
-Interests:
-  - Cyber Security
-  - Ethical Hacking
-  - Linux
-  - Networking
-  - OSINT
-
-Currently Learning:
+currently_learning:
   - Web Security
-  - Active Directory
   - Penetration Testing
-  - Threat Analysis
+  - Active Directory
+  - Threat Intelligence
+  - Artificial Intelligence
+
+goal:
+  Build secure systems while continuously learning
+  about cybersecurity, software development,
+  and emerging technologies.
 ```
 
 ---
 
-## ⚡ Tech Stack
+## ⚔️ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,git,vscode,docker,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,bash,linux,docker,mysql,git,github,vscode&theme=dark"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -76,22 +82,30 @@ Currently Learning:
 
 ---
 
-## 🏆 Achievements
+## 💻 Languages & Technologies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Krytop113&theme=algolia&no-frame=true&margin-w=15"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,bash,linux,git,vscode&theme=dark"/>
 
 </div>
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Krytop113">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
 </a>
 
 </div>
@@ -100,16 +114,23 @@ Currently Learning:
 
 <div align="center">
 
+## 🔒 System Status
+
 ```text
-[ SYSTEM STATUS ]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-███████████████████ 100%
+Linux              ████████░░ 80%
+Networking         ████████░░ 80%
+Web Development    ████████░░ 80%
+Artificial Intel.  ███████░░░ 70%
 
-Cyber Security
-Linux
-Networking
-Continuous Learning
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STATUS : ONLINE
+MODE   : LEARNING
 ```
+
+> "Security is not about breaking systems.
+> It's about understanding how they work."
 
 </div>
 
