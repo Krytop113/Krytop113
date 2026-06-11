@@ -2,61 +2,89 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:00E5FF&text=KRYTOP113&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Artificial+Intelligence+Learner;Informatics+Engineering+Student;Linux+User;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Web+Developer;Informatics+Engineering+Student;Linux+Enthusiast;Future+Network+%26+Cybersecurity+Learner;Always+Learning+New+Things"/>
 
 </div>
 
 ---
 
-## 👨‍💻 Who Am I?
+# 👋 Hello World!
 
 ```bash
 ┌──(krytop㉿github)-[~]
-└─$ cat profile.txt
+└─$ whoami
 
 Name       : Javier Leander Wijaya
+Alias      : Krytop113
 Role       : Informatics Engineering Student
 University : Maranatha Christian University
 Location   : Bandung, West Java, Indonesia
-
-Interests:
-├── Artificial Intelligence
-├── Cybersecurity
-├── Ethical Hacking
-├── Web Development
-├── Linux & Networking
-└── Open Source Projects
 ```
 
 ---
 
-## 🛡️ About Me
+## 🚀 About Me
 
 ```yaml
 alias: Krytop113
 
-currently_learning:
-  - Web Security
+current_focus:
+  - Web Development
+  - Frontend Development
+  - Backend Development
+  - Database Management
+  - Linux Environment
+
+future_learning:
+  - Computer Networking
+  - Network Security
+  - Cybersecurity Fundamentals
   - Penetration Testing
-  - Active Directory
   - Threat Intelligence
-  - Artificial Intelligence
 
 goal:
-  Build secure systems while continuously learning
-  about cybersecurity, software development,
-  and emerging technologies.
+  Build scalable applications,
+  understand computer networks,
+  and develop strong cybersecurity skills.
 ```
 
 ---
 
-## ⚔️ Tech Arsenal
+## 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,bash,linux,docker,mysql,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,mysql,git,github,linux,bash,vscode&theme=dark"/>
 
 </div>
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+| Web Development       | Networking           | Cybersecurity   |
+| --------------------- | -------------------- | --------------- |
+| HTML, CSS, JavaScript | Network Fundamentals | Security Basics |
+| Backend Concepts      | TCP/IP & Routing     | Web Security    |
+| Database Design       | Linux Networking     | Ethical Hacking |
+
+</div>
+
+---
+
+## 🎯 2026 Roadmap
+
+```text
+[✓] Build Personal Projects
+[✓] Improve JavaScript Skills
+[✓] Learn Backend Development
+[ ] Study Computer Networking
+[ ] Learn Network Security
+[ ] Explore Cybersecurity Fundamentals
+[ ] Contribute to Open Source
+```
 
 ---
 
@@ -82,30 +110,12 @@ goal:
 
 ---
 
-## 💻 Languages & Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,bash,linux,git,vscode&theme=dark"/>
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Krytop113">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
-</a>
-
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 </div>
@@ -114,24 +124,6 @@ goal:
 
 <div align="center">
 
-## 🔒 System Status
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Linux              ████████░░ 80%
-Networking         ████████░░ 80%
-Web Development    ████████░░ 80%
-Artificial Intel.  ███████░░░ 70%
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-STATUS : ONLINE
-MODE   : LEARNING
-```
-
-> "Security is not about breaking systems.
-> It's about understanding how they work."
+### ⚡ "Code, Learn, Build, Repeat."
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,100:00E5FF"/>
